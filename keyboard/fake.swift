@@ -372,3 +372,23 @@ extension UIViewController{
     
 }
 
+
+
+
+
+// ......
+
+
+// ......
+
+
+
+
+struct IQKeyboardManager{
+    
+    
+    static var shared = IQKeyboardManager()
+    
+    
+    var keyboardDistanceFromTextField = 0
+}
